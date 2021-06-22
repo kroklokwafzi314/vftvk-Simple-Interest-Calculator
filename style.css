@@ -28,8 +28,11 @@ h1{
 }
 
 .result {
-    line-height:10px;
+    line-height:25px;
   
 }
 
+.highlight {
+    background-color: yellow;
+}
 
